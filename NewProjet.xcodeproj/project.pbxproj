@@ -14,6 +14,7 @@
 		9FC329EC29013FBB009A5F82 /* NewProjetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC329EB29013FBB009A5F82 /* NewProjetTests.swift */; };
 		9FC329F629013FBB009A5F82 /* NewProjetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC329F529013FBB009A5F82 /* NewProjetUITests.swift */; };
 		9FC329F829013FBB009A5F82 /* NewProjetUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC329F729013FBB009A5F82 /* NewProjetUITestsLaunchTests.swift */; };
+		9FC32A0529014DD9009A5F82 /* testing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC32A0429014DD9009A5F82 /* testing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		9FC329F129013FBB009A5F82 /* NewProjetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewProjetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FC329F529013FBB009A5F82 /* NewProjetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewProjetUITests.swift; sourceTree = "<group>"; };
 		9FC329F729013FBB009A5F82 /* NewProjetUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewProjetUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9FC32A0429014DD9009A5F82 /* testing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				9FC329DD29013FBA009A5F82 /* Assets.xcassets */,
 				9FC329DF29013FBA009A5F82 /* NewProjet.entitlements */,
 				9FC329E029013FBA009A5F82 /* Preview Content */,
+				9FC32A0429014DD9009A5F82 /* testing.swift */,
 			);
 			path = NewProjet;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				9FC329DC29013FB8009A5F82 /* ContentView.swift in Sources */,
 				9FC329DA29013FB8009A5F82 /* NewProjetApp.swift in Sources */,
+				9FC32A0529014DD9009A5F82 /* testing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
